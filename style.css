@@ -1,0 +1,20 @@
+.flip-area {
+    background-color: #efefef;
+    padding: 100px 0;
+}
+
+.flipped-boxed-service {
+    background-color: #fff;
+    padding: 80px 0;
+    border-bottom: 4px solid black;
+    margin-bottom: 50px;
+}
+
+.flipped-boxed-service h3 {
+    font-weight: 400;
+}
+
+.flipped-boxed-service i {
+    font-size: 100px;
+    margin-bottom: 30px;
+}
